@@ -57,7 +57,7 @@ Search for [A] is combined and summarized with [B], [C], [D], [E}, [F] and [G] r
 #
 ### CHATGPT
 
-[Search Multiplier]()
+[Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier)
 
 #
 ### RELATED LINKS
