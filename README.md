@@ -30,8 +30,11 @@ wallpaper, aesthetic, color, sky, baby, red
 People also ask:
 
 What's the meaning of blue?
+
 What does the color blue symbolize?
+
 Why is blue called blue?
+
 What does the color blue represent spiritually?
 
 #
