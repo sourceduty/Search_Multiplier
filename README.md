@@ -11,11 +11,17 @@ The initial search for [A] isn't reworded while expanding the initial search for
 ### SEARCH EXAMPLE
 
 A: "blue"
+
 B: why does "blue" exist?
+
 C: what are some examples of "blue"?
+
 D: how is "blue" made?
+
 E: what are "colours"?
+
 F: what isn't "blue"?
+
 G: what is "green"?
 
 #
