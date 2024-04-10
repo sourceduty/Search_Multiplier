@@ -1,14 +1,25 @@
-### Search_Multiplier
+![Search Multiplier](https://github.com/sourceduty/Search_Multiplier/assets/123030236/0113bdf4-a767-4082-a6c6-d0f6275e09da)
 
-🔎 Experimentally expanding simple text searches with multiple related search options.
+[Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier) is designed to enhance your search experience by expanding a single search query into a variety of related search options. Here's how it works and the benefits it offers:
+
+### How Search Multiplier Works
+
+1. Initial Search Expansion: When you provide an initial search query, Search Multiplier generates a range of related search options. These options explore different facets of your original query, providing a more comprehensive understanding of the topic.
+
+2. Condensed Search Summary: After generating related search options, Search Multiplier combines these into a condensed search summary. This summary aims to cover the breadth and depth of your initial query by integrating information from the related search options.
+
+3. Simple Search Summary: Further condensing the information, a simple search summary is provided to offer a quick, overarching view of the topic. This summary is useful for grasping the essentials without delving into each query individually.
+
+### Benefits of Using Search Multiplier
+
+- Enhanced Exploration: By expanding your initial query into multiple related searches, you gain a broader and more nuanced understanding of the topic.
+- Time Efficiency: Instead of conducting multiple searches yourself, Search Multiplier does the work for you, saving time and effort.
+- Depth and Breadth: The condensed search summary ensures that you not only get a wide range of information but also dive deep into the topic, covering various aspects that you might not have considered initially.
+- Convenience: The simple search summary offers a quick snapshot of the topic, ideal for users who need a brief overview or are short on time.
+- Customized Learning: By providing a range of related search options, Search Multiplier caters to different interests and learning preferences, allowing you to explore the facets of the topic that interest you the most.
 
 #
-### DESCRIPTION
-
-The initial search for [A] isn't reworded while expanding the initial search for [A] with multiple related search options.
-
-#
-### SEARCH EXAMPLE
+### Search Example
 
 A: "blue"
 
@@ -25,51 +36,12 @@ F: what isn't "blue"?
 G: what is "green"?
 
 #
-### GOOGLE SEARCH
-
-[Google search: blue](https://www.google.com/search?q=blue&rlz=1C1VDKB_enCA1059CA1059&oq=blue&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhB0gEHODg1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
-
-Related image search words:
-
-wallpaper, aesthetic, color, sky, baby, red
-
-People also ask:
-
-What's the meaning of blue?
-
-What does the color blue symbolize?
-
-Why is blue called blue?
-
-What does the color blue represent spiritually?
-
-#
-
-[Related searches](https://support.google.com/websearch/answer/2466433?hl=en)
-
-"After a search, you find related searches to what you originally searched for. Related searches are automatically generated based on what our systems understand about how people search."
-
-#
-### CONDENSED SEARCH CONCEPT
-
-Search for [A] is combined and summarized with [B], [C], [D], [E}, [F] and [G] related search options.
-
-#
-### CHATGPT
-
-[Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier)
-
-#
 ### RELATED LINKS
 
 [Smart Web Search](https://github.com/sourceduty/Smart_Web_Search)
 
 [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval)
 
-#
-### COPYRIGHT
-
+*** 
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
-
 THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
-
