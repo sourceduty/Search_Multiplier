@@ -18,30 +18,6 @@
 - Convenience: The simple search summary offers a quick snapshot of the topic, ideal for users who need a brief overview or are short on time.
 - Customized Learning: By providing a range of related search options, Search Multiplier caters to different interests and learning preferences, allowing you to explore the facets of the topic that interest you the most.
 
-#
-### Search Example
-
-A: "blue"
-
-B: why does "blue" exist?
-
-C: what are some examples of "blue"?
-
-D: how is "blue" made?
-
-E: what are "colours"?
-
-F: what isn't "blue"?
-
-G: what is "green"?
-
-#
-### RELATED LINKS
-
-[Smart Web Search](https://github.com/sourceduty/Smart_Web_Search)
-
-[Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval)
-
 *** 
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
 <br>
