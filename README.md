@@ -28,6 +28,10 @@
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Search Programmer](https://github.com/sourceduty/Search_Programmer)
+<br>
+[Narrative Search](https://github.com/sourceduty/Narrative_Search)
+<br>
+[Smart Web Search](https://github.com/sourceduty/Smart_Web_Search)
 
 *** 
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
