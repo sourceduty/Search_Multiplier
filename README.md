@@ -1,5 +1,9 @@
 ![Search Multiplier](https://github.com/sourceduty/Search_Multiplier/assets/123030236/0113bdf4-a767-4082-a6c6-d0f6275e09da)
 
+> Expand simple text searches with multiple related search options.
+
+#
+
 [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier) is designed to enhance your search experience by expanding a single search query into a variety of related search options. Here's how it works and the benefits it offers:
 
 ### How Search Multiplier Works
@@ -18,7 +22,12 @@
 - Convenience: The simple search summary offers a quick snapshot of the topic, ideal for users who need a brief overview or are short on time.
 - Customized Learning: By providing a range of related search options, Search Multiplier caters to different interests and learning preferences, allowing you to explore the facets of the topic that interest you the most.
 
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Search Programmer](https://github.com/sourceduty/Search_Programmer)
+
 *** 
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
-<br>
-THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
